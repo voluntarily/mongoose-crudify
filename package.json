@@ -1,5 +1,5 @@
 {
-  "name": "@voluntarily/mongoose-crudify",
+  "name": "mongoose-crudify",
   "version": "1.0.1",
   "description": "Voluntarily fork of ryo718/mongoose-crudify which disappeared.  This package allows rapid boilerplate generation of CRUD API for mongoose entities",
   "main": "index.js",
