@@ -1,7 +1,7 @@
 {
-  "name": "mongoose-crudify",
-  "version": "0.2.0",
-  "description": "Crudify mongoose model",
+  "name": "@voluntarily/mongoose-crudify",
+  "version": "1.0.0",
+  "description": "Voluntarily fork of ryo718/mongoose-crudify which disappeared.  This package allows rapid boilerplate generation of CRUD API for mongoose entities",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon app.js",
@@ -9,9 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ryo718/mongoose-crudify.git"
+    "url": "https://github.com/voluntarily/mongoose-crudify.git"
   },
-  "author": "ryo718",
+  "author": "Andrew Watkins <andrew@voluntarily.nz> (http://voluntarily.nz)",
   "license": "MIT",
   "dependencies": {
     "lodash": "^4.17.4"
